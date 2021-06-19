@@ -1,0 +1,6 @@
+cuda:10.0-cudnn7
+Keras (2.3.1)
+tensorflow-gpu (1.13.1)
+
+pip install tqdm 
+sudo apt install python3-opencv
